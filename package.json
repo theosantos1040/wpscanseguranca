@@ -1,0 +1,23 @@
+{
+  "name": "wpscan-seguranca",
+  "version": "1.0.0",
+  "description": "Scanner de vulnerabilidades para WordPress (análise passiva) com reCAPTCHA v3, pronto para a Vercel.",
+  "private": true,
+  "type": "module",
+  "engines": {
+    "node": ">=18"
+  },
+  "scripts": {
+    "dev": "vercel dev",
+    "start": "vercel dev"
+  },
+  "keywords": [
+    "wpscan",
+    "wordpress",
+    "security",
+    "scanner",
+    "vercel",
+    "recaptcha"
+  ],
+  "license": "MIT"
+}
